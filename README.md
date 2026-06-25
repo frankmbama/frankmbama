@@ -68,7 +68,7 @@ Internal sustainability champion — water efficiency, operational ESG, and staf
 | Qualification | Institution | Grade |
 |---|---|---|
 | MBA — Environmental Management | Bangor University | **Distinction** |
-| HND — Urban & Regional Planning | — | **Distinction · Best Graduating Student** |
+| HND — Urban & Regional Planning | Abia State Polytechnic, Aba | **Distinction · Best Graduating Student** |
 
 **Dissertation:** Lifecycle environmental impacts of solar PV — critical mineral depletion and end-of-life considerations.
 
